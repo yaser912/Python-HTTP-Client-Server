@@ -14,6 +14,7 @@ Ensuring compatibility with major operating systems and recommending the use of 
 The assignment encourages experimentation with telnet for understanding HTTP protocol specifications. 
 
 Server:
+
 This assignment focuses on implementing a simple HTTP server application to create a remote file manager using the HTTP protocol. The tasks include:
 
 Studying and reviewing the HTTP network protocol specifications, emphasizing server-side features and considering HTTP version 1.0.
